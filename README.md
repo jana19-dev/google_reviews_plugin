@@ -6,13 +6,13 @@ Functionalities:
 <ul>
   <li> Store reviews in database using the internal WPDB database functions. </li>
   <li> Read reviews from database using the internal WPDB database functions. </li>
-  <li> Display reviews on a page with star ratings </li>
+  <li> Display reviews on any page with star ratings. </li>
 </ul>
 
 Features:
 <ul>
   <li> Comes with a separate admin menu to set options needed to pull reviews.
-       Google Place ID, and Google API Key
+       Google Place ID, and Google API Key.
   </li>
   <li> Able to add the latest 5 reviews on any page using the short_code 
 	<code>[google_reviews]</code> .</li>
