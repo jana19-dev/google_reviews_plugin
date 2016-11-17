@@ -1,7 +1,7 @@
 <?php
 /**
 Plugin Name: Google Place Reviews
-Plugin URI : 
+Plugin URI : https://github.com/jana-uoft/google_reviews_plugin
 Description: Pull in google reviews for a business and display them through a widget or some [custom_code].
 Version:     1.0
 Author:      Jana Rajkumar
